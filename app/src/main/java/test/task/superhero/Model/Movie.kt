@@ -9,6 +9,6 @@ data class Movie(
     var publisher: String? = null,
     var imageurl: String? = null,
    // var image: String? = null,
-
+//
     var bio: String? = null
 )
